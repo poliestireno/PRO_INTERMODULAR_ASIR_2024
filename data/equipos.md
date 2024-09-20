@@ -1,7 +1,7 @@
 **1. Equipo 1:**
-* Nombre1
-* Nombre2
-* Nombre3
+* Denis Robert Butnaru
+* Diego David Morales
+* Erik Guillermo Aymara
   
 **2. Equipo 2:**
 * Nombre12
