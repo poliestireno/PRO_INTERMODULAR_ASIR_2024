@@ -21,3 +21,8 @@
 * Adrian Arroyo Pernudo
 * Joshua Bocanegra Villafane
 * Alexander Trinidad Batista
+
+**6. Equipo 6:**
+* Álvaro Cerdá Jiménez
+* Raúl Casado San Andrés
+* Sergio Bueno Rodríguez
