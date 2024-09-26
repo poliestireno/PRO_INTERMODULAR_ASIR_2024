@@ -11,4 +11,8 @@
 **3. Equipo 3:**
 * Edward Regueros Amaquin
 * Jorge Cumplido Alegre
-* 
+
+**4. Equipo 4:**
+* Alejandro Rojo
+* Alejandro Cabeza
+  Taylor Álvarez
