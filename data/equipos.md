@@ -16,3 +16,8 @@
 * Alejandro Rojo
 * Alejandro Cabeza
 * Taylor Álvarez
+
+**5. Equipo 5:**
+* Adrian Arroyo Pernudo
+* Joshua Bocanegra Villafane
+* Alexander Trinidad Batista
