@@ -28,6 +28,6 @@
 * Sergio Bueno Rodríguez
 
 **7. Equipo 7:**
-* Arturo Mnaso Borrego
+* Arturo Manso Borrego
 * Juan Carlos Hernández Risso
 * Marco Antonio Méndez Rivero
