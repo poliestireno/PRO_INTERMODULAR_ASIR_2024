@@ -4,6 +4,6 @@
 * Erik Guillermo Aymara
   
 **2. Equipo 2:**
-* Nombre12
-* Nombre22
-* Nombre32
+* Sharon Nicole Roa Lopez
+* Gledys Scarles Gonzalez Guerrero
+* Ivan De la Fuente Varona
