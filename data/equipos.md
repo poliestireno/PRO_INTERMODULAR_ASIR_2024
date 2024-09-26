@@ -15,4 +15,4 @@
 **4. Equipo 4:**
 * Alejandro Rojo
 * Alejandro Cabeza
-  Taylor Álvarez
+* Taylor Álvarez
