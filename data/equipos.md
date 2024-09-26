@@ -26,3 +26,8 @@
 * Álvaro Cerdá Jiménez
 * Raúl Casado San Andrés
 * Sergio Bueno Rodríguez
+
+**7. Equipo 7:**
+* Arturo Mnaso Borrego
+* Juan Carlos Hernández Risso
+* Marco Antonio Méndez Rivero
