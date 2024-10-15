@@ -11,6 +11,7 @@
 **3. Equipo 3:**
 * Edward Regueros Amaquin
 * Jorge Cumplido Alegre
+* Marlon José Parra Chango
 
 **4. Equipo 4:**
 * Alejandro Rojo
