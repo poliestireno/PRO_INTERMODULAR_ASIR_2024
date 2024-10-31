@@ -33,7 +33,7 @@
 * Juan Carlos Hernández Risso
 * Marco Antonio Méndez Rivero
 
-* **8. Equipo 8:**
+**8. Equipo 8:**
 * Javier Montoro Granados
 * David Mozos Pardo
 * Oscar Gárcia Verdugo García
