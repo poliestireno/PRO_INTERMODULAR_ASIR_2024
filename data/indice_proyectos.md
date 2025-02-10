@@ -2,7 +2,7 @@ https://drive.google.com/file/d/1pCaoUPOR76YQIGApXNooIVIzQwcJipo7/view?usp=drive
 * [Desarrollo de Infraestructura Híbrida para Aplicaciones Empresariales](https://github.com/Aer0zx/ProyectoFinCurso/blob/main/proyectofin.md)
 
 **2. Equipo 2:**
-* [Digitalización y proyección online de una microempresa](https://github.com/0ivandela/TFG/blob/main/tfg.md)
+* [Digitalización y proyección online de una microempresa](https://github.com/gledysscarlesg/ASIR2/blob/main/TFG/TFG.md)
 
 **3. Equipo 3:**
 * [Infraestructura de red en Barrio Aluche](https://github.com/poliestireno/phaser01)
