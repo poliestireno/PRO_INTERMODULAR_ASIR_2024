@@ -20,4 +20,4 @@
 * [RASPBERRY PI](https://docs.google.com/document/d/1rC4CVsYDjJZIipHyjIc_FdXo-teJlr2gBryE8fQt5XM/edit?usp=sharing)
 
 **8. Equipo 8:**
-*[Escuela deportiva La Salle](https://docs.google.com/document/d/1GRopmba0TDPcmLzabYHj6HO3BX0ja9u99d98_eEGuaE/edit?usp=sharing)
+* [Escuela deportiva La Salle](https://docs.google.com/document/d/1GRopmba0TDPcmLzabYHj6HO3BX0ja9u99d98_eEGuaE/edit?usp=sharing)
