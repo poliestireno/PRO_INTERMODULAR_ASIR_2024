@@ -5,7 +5,7 @@
 * [Digitalización y proyección online de una microempresa](https://github.com/gledysscarlesg/ASIR2/blob/main/TFG/TFG.md)
 
 **3. Equipo 3:**
-* [Infraestructura de red en Barrio Aluche](https://github.com/poliestireno/phaser01)
+* [Tienda Online La Salle](https://docs.google.com/document/d/1kazxA3bU3KxPBnystKUM6NDcTKoxQvYURVmvBLL10rc/edit?usp=sharing)
 
 **4. Equipo 4:**
 * [Web segura y conversativa](https://github.com/poliestireno/SAD)
