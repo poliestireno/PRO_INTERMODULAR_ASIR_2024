@@ -21,3 +21,6 @@
 
 **8. Equipo 8:**
 * [Escuela deportiva La Salle](https://docs.google.com/document/d/1GRopmba0TDPcmLzabYHj6HO3BX0ja9u99d98_eEGuaE/edit?usp=sharing)
+
+**9. Equipo 9:**
+* [Web con ia en redes](https://docs.google.com/document/d/1lp-Nq2bAp2UuyrJpnjhDx3r4UZ78M84WgzM9HvURgOo/edit?usp=drive_link)
