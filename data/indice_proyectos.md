@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1pCaoUPOR76YQIGApXNooIVIzQwcJipo7/view?usp=drive_link**1. Equipo 1:**
+**1. Equipo 1:**
 * [Desarrollo de Infraestructura Híbrida para Aplicaciones Empresariales](https://github.com/Aer0zx/ProyectoFinCurso/blob/main/proyectofin.md)
 
 **2. Equipo 2:**
