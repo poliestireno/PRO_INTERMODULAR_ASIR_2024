@@ -8,7 +8,7 @@
 * [Tienda Online La Salle](https://docs.google.com/document/d/1kazxA3bU3KxPBnystKUM6NDcTKoxQvYURVmvBLL10rc/edit?usp=sharing)
 
 **4. Equipo 4:**
-* [Web segura y conversativa](https://github.com/Red-Devil-45/ASIR2_ALEXR/blob/main/TFG/Primer_boceto_tfg.md)
+* [Web de php con Apache y FTP](https://github.com/Red-Devil-45/ASIR2_ALEXR/blob/main/TFG/Primer_boceto_tfg.md)
 
 **5. Equipo 5:**
 * [Web segura y conversativa](https://github.com/poliestireno/SAD)
