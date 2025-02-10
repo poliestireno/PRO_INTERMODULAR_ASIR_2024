@@ -20,4 +20,7 @@
 * [RASPBERRY PI](https://docs.google.com/document/d/1rC4CVsYDjJZIipHyjIc_FdXo-teJlr2gBryE8fQt5XM/edit?usp=sharing)
 
 **8. Equipo 8:**
-*[Escuela deportiva La Salle](https://docs.google.com/document/d/1GRopmba0TDPcmLzabYHj6HO3BX0ja9u99d98_eEGuaE/edit?usp=sharing)
+[https://docs.google.com/document/d/1GRopmba0TDPcmLzabYHj6HO3BX0ja9u99d98_eEGuaE/edit?tab=t.0 ](https://docs.google.com/document/d/1GRopmba0TDPcmLzabYHj6HO3BX0ja9u99d98_eEGuaE/edit?usp=sharing)
+
+**9. Equipo 9:**
+[Plataforma Web de Análisis de Logs de Seguridad con Apache Cassandra]([https://docs.google.com/document/d/1rC4CVsYDjJZIipHyjIc_FdXo-teJlr2gBryE8fQt5XM/edit?usp=sharing](https://docs.google.com/document/d/1kzrk67K-65weoJYMRW1TuTHwIFEyrjYuj_6hpg4_aDg/edit?tab=t.0#heading=h.27k1664o2gfz))
