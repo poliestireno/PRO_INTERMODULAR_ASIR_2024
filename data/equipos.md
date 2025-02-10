@@ -42,3 +42,8 @@
 * Leonardo David Arenas lópez
 * Jonathan Andŕes Benitez Narvaez
 * Jonanthan Javier Cumvajina Vaca
+
+**10. Equipo 10:**
+* Álvaro Barras Taracena
+* Emily Almudena Morillo Montachana
+* Leonardo Rafael Rodríguez Solano
