@@ -37,3 +37,8 @@
 * Javier Montoro Granados
 * David Mozos Pardo
 * Oscar Gárcia Verdugo García
+
+**9. Equipo 9:**
+* Álvaro Barras Taracena
+* Emily Almudena Morillo Montachana
+* Leonardo Rafael Rodríguez Solano
