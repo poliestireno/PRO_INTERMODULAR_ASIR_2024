@@ -15,3 +15,5 @@
 ## Tendrá un sistema de monitoreo para ver cualquier incidencia 
 
 ![](https://github.com/poliestireno/PRO_INTERMODULAR_ASIR_2024/blob/main/data/IMAGENES_EQUIPO3/TFG1.png)
+
+![](https://github.com/poliestireno/PRO_INTERMODULAR_ASIR_2024/blob/main/data/IMAGENES_EQUIPO3/TFG2.png)
