@@ -1,5 +1,5 @@
 **1. Equipo 1:**
-* [Desarrollo de Infraestructura Híbrida para Aplicaciones Empresariales](https://github.com/Aer0zx/ProyectoFinCurso/blob/main/proyectofin.md)
+* [Desarrollo de Infraestructura Híbrida para Aplicaciones Empresariales](../Equipo_1.md)
 
 **2. Equipo 2:**
 * [Digitalización y proyección online de una microempresa](https://github.com/poliestireno/PRO_INTERMODULAR_ASIR_2024/blob/main/Equipo2.md)
