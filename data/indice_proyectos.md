@@ -24,3 +24,6 @@
   
 **9. Equipo 9:**
 * [Web con ia en redes](https://docs.google.com/document/d/1lp-Nq2bAp2UuyrJpnjhDx3r4UZ78M84WgzM9HvURgOo/edit?usp=drive_link)
+
+**10. Equipo 10:**
+* [enlace]()
