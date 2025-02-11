@@ -2,7 +2,7 @@
 * [Desarrollo de Infraestructura Híbrida para Aplicaciones Empresariales](https://github.com/Aer0zx/ProyectoFinCurso/blob/main/proyectofin.md)
 
 **2. Equipo 2:**
-* [Digitalización y proyección online de una microempresa](https://github.com/gledysscarlesg/ASIR2/blob/main/TFG/TFG.md)
+* [Digitalización y proyección online de una microempresa](https://github.com/poliestireno/PRO_INTERMODULAR_ASIR_2024/blob/main/Equipo2.md)
 
 **3. Equipo 3:**
 * [Tienda Online La Salle](https://docs.google.com/document/d/1kazxA3bU3KxPBnystKUM6NDcTKoxQvYURVmvBLL10rc/edit?usp=sharing)
