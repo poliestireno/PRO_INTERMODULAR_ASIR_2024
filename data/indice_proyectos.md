@@ -17,7 +17,7 @@
 * [Aplicación Web para almacenar TFG's](https://drive.google.com/file/d/1pCaoUPOR76YQIGApXNooIVIzQwcJipo7/view?usp=drive_link)
 
 **5. Equipo 7:**
-* [RASPBERRY PI](https://docs.google.com/document/d/1rC4CVsYDjJZIipHyjIc_FdXo-teJlr2gBryE8fQt5XM/edit?usp=sharing)
+* [RASPBERRY PI](../Equipo_7.md)
 
 **8. Equipo 8:**
 * [Escuela deportiva La Salle](https://github.com/poliestireno/PRO_INTERMODULAR_ASIR_2024/blob/main/Equipo8.md)
