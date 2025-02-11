@@ -26,4 +26,4 @@
 * [Web con ia en redes](https://docs.google.com/document/d/1lp-Nq2bAp2UuyrJpnjhDx3r4UZ78M84WgzM9HvURgOo/edit?usp=drive_link)
 
 **10. Equipo 10:**
-* [enlace]()
+* [Plataforma Web de Análisis de Logs de Seguridad con Apache Cassandra](https://docs.google.com/document/d/1kzrk67K-65weoJYMRW1TuTHwIFEyrjYuj_6hpg4_aDg/edit?tab=t.0#heading=h.gtn7u2kwh12o)
