@@ -23,7 +23,7 @@
 * [Escuela deportiva La Salle](https://github.com/poliestireno/PRO_INTERMODULAR_ASIR_2024/blob/main/Equipo8.md)
   
 **9. Equipo 9:**
-* [Web con ia en redes](https://docs.google.com/document/d/1lp-Nq2bAp2UuyrJpnjhDx3r4UZ78M84WgzM9HvURgOo/edit?usp=drive_link)
+* [Web con ia en redes](https://github.com/poliestireno/PRO_INTERMODULAR_ASIR_2024/blob/main/Equipo_9.md).
 
 **10. Equipo 10:**
 * [Plataforma Web de Análisis de Logs de Seguridad con Apache Cassandra](https://github.com/poliestireno/PRO_INTERMODULAR_ASIR_2024/blob/main/Equipo10.md)
